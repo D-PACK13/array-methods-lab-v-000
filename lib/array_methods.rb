@@ -11,11 +11,11 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  array.reverse
+  array.first
 end
 
 def using_last(array)
-  array.first
+  array.last
 end
 
 def using_size(array)
